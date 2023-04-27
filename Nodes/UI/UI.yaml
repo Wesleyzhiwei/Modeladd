@@ -103,3 +103,8 @@ Children:
     DataType: LocalizedText
     ModellingRule: Optional
     Value: {"LocaleId":"en-US","Text":"Label2"}
+  - Name: LeftMargin
+    Type: BaseVariableType
+    DataType: Size
+    ModellingRule: Optional
+    Value: 100.0

@@ -1,2 +1,15 @@
 Name: Model
 Type: ModelCategoryFolder
+Children:
+- Name: Object1
+  Type: BaseObjectType
+  Children:
+  - Name: Alias1
+    Type: Alias
+    DataType: NodeId
+    Value: {"IdType":2,"Id":"f2c8d7b843aca5c561b4df6e59d8677c","Namespace":7}
+    Children:
+    - Name: Kind
+      Type: PropertyType
+      DataType: NodeId
+      Value: {"IdType":2,"Id":"f2c8d7b843aca5c561b4df6e59d8677c","Namespace":7}

@@ -1,2 +1,47 @@
 Name: Recipes
+Id: g=36ae6d3d199d77ed50672ef40b407329
 Type: RecipesCategoryFolder
+Children:
+- Name: RecipeSchema1
+  Id: g=749c7ba28d176e4fdf12c56afe6bdaed
+  Type: RecipeSchema
+  Children:
+  - Name: Root
+    Id: g=8df55da25c3ffb8c6b7e9f80ff9bef8b
+    Type: BaseObjectType
+  - Class: Reference
+    Target: ns=18;i=27
+    Direction: Forward
+  - Class: Reference
+    Target: ns=18;i=33
+    Direction: Forward
+  - Class: Reference
+    Target: ns=18;i=31
+    Direction: Forward
+  - Class: Reference
+    Target: ns=18;i=44
+    Direction: Forward
+  - Class: Reference
+    Target: ns=18;i=35
+    Direction: Forward
+  - Class: Reference
+    Target: ns=18;i=37
+    Direction: Forward
+  - Class: Reference
+    Target: ns=18;i=76
+    Direction: Forward
+  - Class: Reference
+    Target: ns=18;i=53
+    Direction: Forward
+  - Class: Reference
+    Target: ns=18;i=62
+    Direction: Forward
+  - Class: Reference
+    Target: ns=18;i=55
+    Direction: Forward
+  - Class: Reference
+    Target: ns=18;i=58
+    Direction: Forward
+  - Class: Reference
+    Target: ns=18;i=60
+    Direction: Forward
